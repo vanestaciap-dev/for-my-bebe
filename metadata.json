@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Hearts: A Love Quest",
+  "description": "An 8-bit retro adventure game with interactive puzzles, hidden nostalgic collectibles, and a secret love letter quest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
